@@ -1,6 +1,7 @@
 ### Hi🖐️
 I'm Kiyeon Yun, a Developer.<br/>
-I'm looking for a game client development job.<br/><br/>
+I have been developing metaverse content for about three years.<br/>
+Now I'm looking for a game client development job.<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyeonYun&layout=compact&hide=GAP)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
