@@ -12,9 +12,16 @@ I'm looking for a game client development job.<br/><br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 
 ### Engines & Tools
-<a href="" target="_blank"><img src="https://img.shields.io/badge/unity-333333?style=flat-square&logo=unity&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/VisualStudio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-4053D6?style=flat-square&logo=intellijidea&logoColor=white"/></a>
+
+### Etc Tools
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-353E58?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/></a>
 
 ### Studying
 <a href="" target="_blank"><img src="https://img.shields.io/badge/unrealengine-3D4258?style=flat-square&logo=unrealengine&logoColor=white"/></a>
