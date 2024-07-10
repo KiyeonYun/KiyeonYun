@@ -1,7 +1,7 @@
 ### Hi🖐️
 I'm Kiyeon Yun, a Developer.<br/>
-I have been developing metaverse content for about three years.<br/>
-Now I'm looking for a game client development job.<br/><br/>
+I have been developing using Java for 3 years, <br/>
+Currently, I am a metaverse content developer using Unity 3D and C#.<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyeonYun&layout=compact&hide=GAP)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages & Engines
