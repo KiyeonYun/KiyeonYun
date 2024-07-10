@@ -25,7 +25,7 @@ Currently, I am a metaverse content developer using Unity 3D and C#.<br/><br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-353E58?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/></a>
 
-### Studying
+### Interested
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unreal-3D4258?style=flat-square&logo=unrealengine&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DirectX11-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/></a>
 
